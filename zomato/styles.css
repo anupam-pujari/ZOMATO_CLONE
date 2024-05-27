@@ -11,7 +11,7 @@ body {
 }
 
 .header-links {
-    margin-left: auto; /* This will push the links to the right */
+    margin-left: auto;
 }
 
 .logo {
